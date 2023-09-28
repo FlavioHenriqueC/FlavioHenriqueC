@@ -1,8 +1,8 @@
 ### Olá! Eu sou Flávio Henrique 🙂
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavioh3nrique/)
+[![instagram](https://skillicons.dev/icons?i=instagram&theme:dark)](https://www.instagram.com/flavioh3nrique/)
 
-[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-henrique-223917291/)
+[![linkedln](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/fl%C3%A1vio-henrique-223917291/)
 
 ![Flávio GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioHenriqueC&show_icons=true&theme=tokyonight)
 

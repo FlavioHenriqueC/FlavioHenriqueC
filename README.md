@@ -31,24 +31,12 @@
 
 ---
 
----
-
----
-
 ### GitHub Stats 📊  
 
-<div align="center">
-  
-  ![Flávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioHenriqueC&show_icons=true&theme=radical&hide_title=true)  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=FlavioHenriqueC&theme=radical&hide_border=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioHenriqueC&layout=compact&theme=radical&hide_title=true)
-
-</div>
+![Flávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioHenriqueC&show_icons=true&theme=radical&hide_title=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=FlavioHenriqueC&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioHenriqueC&layout=compact&theme=radical&hide_title=true)
 
 ---
-
-
----
-
 
 Thanks for visiting! 😊 Feel free to connect or check out my projects. 🚀

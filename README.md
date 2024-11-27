@@ -1,17 +1,40 @@
-### Olá! Eu sou Flávio Henrique 🙂
+# Hi, I'm Flávio Henrique 👋  
+**A Backend Developer in Progress**
 
-[![instagram](https://skillicons.dev/icons?i=instagram&theme:dark)](https://www.instagram.com/flavioh3nrique/)
+---
 
-[![linkedln](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/fl%C3%A1vio-henrique-223917291/)
+### About Me 🌟
+- 🎓 Aspiring **Backend Developer** passionate about building efficient and scalable systems.  
+- 💻 Technologies I use:  
+  - **Programming Languages**: JavaScript, TypeScript, Python  
+  - **Frameworks & Tools**: Node.js, Express.js  
+  - **Database**: PostgreSQL  
+- 🌱 Currently improving my skills in **backend development** and exploring advanced database management.  
+- 🚀 Eager to learn, collaborate, and solve real-world problems through technology.
 
-![Flávio GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioHenriqueC&show_icons=true&theme=tokyonight)
+---
 
-## Tecnologias que eu uso no meu cotidiano
+### My Tech Stack 💻  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="nodejs" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+---
 
-</div>
+### Connect with Me 📫  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-henrique-223917291/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavioh3nrique/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviohenrique2355@gmail.com)  
+
+---
+
+### GitHub Stats 📊  
+![Flávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviohenrique2355&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenrique2355&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting! 😊 Feel free to connect or check out my projects. 🚀

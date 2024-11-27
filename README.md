@@ -33,6 +33,8 @@
 
 ---
 
+---
+
 ### GitHub Stats 📊  
 
 <div align="center">
@@ -42,6 +44,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenrique2355&layout=compact&theme=radical&hide_title=true)
 
 </div>
+
+---
+
 
 ---
 

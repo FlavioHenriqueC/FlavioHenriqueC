@@ -39,9 +39,9 @@
 
 <div align="center">
   
-  ![Flávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviohenrique2355&show_icons=true&theme=radical&hide_title=true)  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=flaviohenrique2355&theme=radical&hide_border=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenrique2355&layout=compact&theme=radical&hide_title=true)
+  ![Flávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioHenriqueC&show_icons=true&theme=radical&hide_title=true)  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=FlavioHenriqueC&theme=radical&hide_border=true)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioHenriqueC&layout=compact&theme=radical&hide_title=true)
 
 </div>
 

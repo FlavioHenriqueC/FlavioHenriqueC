@@ -9,8 +9,7 @@
   - **Programming Languages**: JavaScript, TypeScript, Python  
   - **Frameworks & Tools**: Node.js, Express.js  
   - **Database**: PostgreSQL  
-- 🌱 Currently improving my skills in **backend development** and exploring advanced database management.  
-- 🚀 Eager to learn, collaborate, and solve real-world problems through technology.
+
 
 ---
 
